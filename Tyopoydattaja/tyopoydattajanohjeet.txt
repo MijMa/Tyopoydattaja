@@ -1,0 +1,10 @@
+Ohjeet työpöytäsimulaattorin käyttöön
+
+1. Aja ikkuna.java, joudut tekemaan taman uudelleen joka ikinen kerta kun avaat eclipsen,
+2. päivitä kuvan tallennuspaikka ikkunan kautta (tee tämä joka kerta kun ajat ohjelman) mieluiten scr folderi
+3. paina "ota kuva"
+4. hotkey on defaulttina "a", laita tekstikenttaan kyseinen kirjain
+5. refresh the project folder
+6. look at the picture that got added into the project folder
+
+Ohjelma pukkaa yhden errorin kun se huomaa ettei data.txt folderia ole kun ohjelmaa ajaa ensimmaisen kerran.
